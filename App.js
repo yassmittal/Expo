@@ -71,7 +71,7 @@ export default function App() {
       }
 
       <EmojiPicker isVisible={isModalVisible} onClose={onModalClose}>
-        hi
+        OH hi
       </EmojiPicker>
 
 
